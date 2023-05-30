@@ -1,0 +1,12 @@
+﻿@if (IsActive)
+{
+    <button class="btn btn-danger">Delete</button>
+    <button class="btn btn-success">Edit</button>
+}
+
+
+@code {
+    [Parameter] // ini fungsinya supaya dia ga kebaca sebagai IsActive yg di class DemoProduct.
+                // Jadi yg program akan membaca IsActive pada class ini sebagai parameter saja.
+    public bool IsActive { get; set; }
+}

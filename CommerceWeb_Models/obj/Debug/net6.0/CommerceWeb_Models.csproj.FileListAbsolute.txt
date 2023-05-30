@@ -1,0 +1,12 @@
+D:\Phils\CommerceWeb\CommerceWeb_Models\bin\Debug\net6.0\CommerceWeb_Models.deps.json
+D:\Phils\CommerceWeb\CommerceWeb_Models\bin\Debug\net6.0\CommerceWeb_Models.dll
+D:\Phils\CommerceWeb\CommerceWeb_Models\bin\Debug\net6.0\CommerceWeb_Models.pdb
+D:\Phils\CommerceWeb\CommerceWeb_Models\obj\Debug\net6.0\CommerceWeb_Models.csproj.AssemblyReference.cache
+D:\Phils\CommerceWeb\CommerceWeb_Models\obj\Debug\net6.0\CommerceWeb_Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Phils\CommerceWeb\CommerceWeb_Models\obj\Debug\net6.0\CommerceWeb_Models.AssemblyInfoInputs.cache
+D:\Phils\CommerceWeb\CommerceWeb_Models\obj\Debug\net6.0\CommerceWeb_Models.AssemblyInfo.cs
+D:\Phils\CommerceWeb\CommerceWeb_Models\obj\Debug\net6.0\CommerceWeb_Models.csproj.CoreCompileInputs.cache
+D:\Phils\CommerceWeb\CommerceWeb_Models\obj\Debug\net6.0\CommerceWeb_Models.dll
+D:\Phils\CommerceWeb\CommerceWeb_Models\obj\Debug\net6.0\refint\CommerceWeb_Models.dll
+D:\Phils\CommerceWeb\CommerceWeb_Models\obj\Debug\net6.0\CommerceWeb_Models.pdb
+D:\Phils\CommerceWeb\CommerceWeb_Models\obj\Debug\net6.0\ref\CommerceWeb_Models.dll

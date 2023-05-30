@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CommerceWeb_Server/1.0.0": {
+        "dependencies": {
+          "CommerceWeb_Models": "1.0.0"
+        },
+        "runtime": {
+          "CommerceWeb_Server.dll": {}
+        }
+      },
+      "CommerceWeb_Models/1.0.0": {
+        "runtime": {
+          "CommerceWeb_Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CommerceWeb_Server/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CommerceWeb_Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
